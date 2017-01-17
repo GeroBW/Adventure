@@ -1,6 +1,7 @@
 import java.awt.*;
 import java.applet.Applet;
 
+// Test
 public class Monster
 {
     private int angriff, verteidigung, tempo, exp;
