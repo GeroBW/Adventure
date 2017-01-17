@@ -12,10 +12,4 @@ public class Monster
         tempo = tem;
         this.exp = exp;
     }
-
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return y;
-    }
 }
